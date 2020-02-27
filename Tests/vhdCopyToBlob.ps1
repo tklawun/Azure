@@ -1,0 +1,1 @@
+.\azcopy.exe cp "E:\Azure\RPA Client\disk0fix.vhd" "https://blob1of1vhd1images.blob.core.windows.net/testcontainerc/vhddisk01Fix.vhd?sp=rcwd&st=2020-02-27T14:24:15Z&se=2020-03-01T22:24:15Z&spr=https&sv=2019-02-02&sr=b&sig=vWzb4tUWtmQcxv2a0ZhjfJ4UGotZtRqUbXYub%2B4kA%2F0%3D"
